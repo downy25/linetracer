@@ -6,5 +6,7 @@ linetracer
 2.영상 링크
 로봇키트영상
 https://youtube.com/shorts/xHAXofjy2KQ?feature=share
+
+
 카메라시점 영상
 https://youtu.be/U65AzzlY394
